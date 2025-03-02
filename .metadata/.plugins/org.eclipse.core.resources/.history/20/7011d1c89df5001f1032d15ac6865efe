@@ -1,0 +1,12 @@
+package sec03.verify.exam02;
+
+public class TestMember {
+	String name;
+	String id;
+	
+	TestMember() {
+		this.name = name;
+		this.id = id;
+	}
+}
+

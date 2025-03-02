@@ -1,0 +1,5 @@
+package sec03.exam02;
+//생성자에서 필드 초기화
+public class TestKorean {
+	//필드
+}

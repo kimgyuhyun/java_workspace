@@ -1,0 +1,13 @@
+package sec03.exam03;
+
+public class TestCarExample {
+	public static void main(String[] args) {
+		TestCar car1 = new TestCar();
+		System.out.println("Car1.company : " + car1.company);
+		System.out.println();
+		
+		TestCar car2 = new TestCar("자가용");
+		System.out.println("Car2.company : " + car2.company);
+		System.out.println("car2.model : " + car2.model);
+	}
+}

@@ -1,0 +1,11 @@
+package sec02.exam09;
+
+public class practice {
+	public static void main(String[] args) {
+		int charCode = 'A';
+		
+		if( (charCode>=65) & (charCode<=90) ) {
+			
+		}
+	}
+}

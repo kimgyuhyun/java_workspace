@@ -1,0 +1,12 @@
+package sec04.verify.exam03;
+
+public class TestMemberServiceExample {
+	public static void main(String[] args) {
+		 TestMemberService memberservice = new TestMemberService(); // 객체 생성
+		 boolean result = memberservice.login("hong", "12345"); //메소드 호출
+		 if(result) {
+			 System.out.println("로그인 되었습니다.");
+			 memberService.logout("hong");
+		 }
+	}
+}

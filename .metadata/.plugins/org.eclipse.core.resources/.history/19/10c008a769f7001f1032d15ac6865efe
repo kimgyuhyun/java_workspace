@@ -1,0 +1,12 @@
+package sec05.exam01;
+//인스턴스 멤버와 this
+public class TestCar {
+	//필드
+	String model;
+	int speed;
+	
+	//생성자
+	TestCar(String mode) {
+		this.model = model;
+	}
+}

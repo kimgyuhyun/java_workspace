@@ -1,0 +1,11 @@
+package sec03.exam02;
+
+import java.util.Calendar;
+
+public class practice {
+	public static void main(String[] args) {
+		Week today = null; //<열거 타입 변수 선언
+		
+		Calendar cal = Calendar.getInstance();//Calendar 타입 변수 cal 에 현재 날짜와 시간을 나타내는 Calendar 객체를 생성하여 cal 변수에 할당
+	}
+}

@@ -1,0 +1,12 @@
+package sec02.exam04;
+
+public class triangle {
+	public static void main(String[] args) {
+		for (int i=0; i<=5; i++) {
+			if (int b=0; b%2==0; b++) {
+				System.out.print(b);
+			}
+		}
+		System.out.println();
+	}
+}

@@ -1,0 +1,11 @@
+package sec03.verify.exam02;
+
+public class practice {
+	public static void main(String[] args) {
+		LoginResult result = LoginResult.FAIL_PASSWORD;
+		if(result == LOginResult.SUCESS) {
+			
+		}
+
+	}
+}

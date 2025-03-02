@@ -1,0 +1,13 @@
+package sec04.exam03;
+//return문
+public class TestCar {
+	//필드
+	int gas;
+	
+	//생성자
+	
+	//메소드
+	void setGas(intGas) {
+		this.gas = gas;
+	}
+}

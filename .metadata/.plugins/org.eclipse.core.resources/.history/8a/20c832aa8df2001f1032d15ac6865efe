@@ -1,0 +1,7 @@
+package sec02.exam08;
+//for 문으로 배열 복사
+public class practice {
+	public static void main(String[] args) {
+
+	}
+}

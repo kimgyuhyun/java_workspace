@@ -1,0 +1,8 @@
+package sec04.exam04;
+
+public class TestCalculatorExample {
+	public static void main(String[] args) {
+		TestCalculator myCalc = new TestCalculaotr();
+		myCalc.execute();
+	}
+}

@@ -1,0 +1,14 @@
+package sec04.exam02;
+//매개 변수의 개수를 모를 경우
+public class TestComputerExample {
+	public static void main(String[] args) {
+		TestComputer myCom = new TestComputer(); //TestComputer 객체생성해서 번지를 TestComputer타입 mycom에 참조
+		
+		int[] values1 = {1, 2, 3,}; //int 타입 배열객체생성 후 values1에 참조
+		int result1 = myCom.sum1(values1); // 참조변수 values1을 sum1 메소드의 매개변수로 사용
+		System.out.println("result1: " + result1);
+		
+		int result2 = myCom.sum1(new int[] {1, 2, 3, 4, 5}); //매개변수로 배열객체를 생성후 직접 할당
+		System.out.println("result2: " + result2);
+	}
+}

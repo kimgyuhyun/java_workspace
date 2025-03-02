@@ -1,0 +1,16 @@
+package com.example;
+
+public class Student {
+	int avg=0;
+	
+	
+}
+
+
+
+
+
+//public class TrafficLight {
+//	public static void main(String[] args) {	
+//	}
+//}

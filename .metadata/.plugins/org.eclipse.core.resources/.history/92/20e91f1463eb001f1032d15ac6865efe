@@ -1,0 +1,8 @@
+package sec02.exam11;
+
+public class practice {
+	public static void main(String[] args) {
+		int score = 85;
+		char grade = (score > 90) ? 'A' : ( (socre) > 80) ? 'B' : 'C' ) ;
+	}
+}

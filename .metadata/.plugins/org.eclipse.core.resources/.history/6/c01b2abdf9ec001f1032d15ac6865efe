@@ -1,0 +1,8 @@
+package sec01.exam06;
+
+public class practice {
+	public static void main(String[] args) {
+		int time = (int) (Math.random() *4) + 8; //8<= ... <=11 사이의 정수 뽑기
+		System.out.println("[현재시간: " + time + " 시]");
+	}
+}

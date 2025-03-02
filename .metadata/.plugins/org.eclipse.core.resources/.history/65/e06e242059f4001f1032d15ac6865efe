@@ -1,0 +1,16 @@
+package com.example;
+
+public class TrafficLight {
+	int i = 0;
+	
+	TrafficLight signal = new TrafficLight();
+}
+
+
+
+
+
+//public class TrafficLight {
+//	public static void main(String[] args) {	
+//	}
+//}

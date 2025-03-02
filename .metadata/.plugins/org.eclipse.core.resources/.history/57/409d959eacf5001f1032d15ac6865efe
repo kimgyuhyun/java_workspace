@@ -1,0 +1,8 @@
+package sec04.exam01;
+//메소드 호출
+public class TestCalculatorExample {
+	public static void main(String[] args) {
+		TestCalculator myCalc = new TestCalculator();
+	}
+
+}
