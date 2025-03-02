@@ -14,6 +14,9 @@ public class TestCar {
 	void setSpeed(int speed) {
 		this.speed = speed;
 	}
+	void sumMethod(int something) {
+		this.model = "GHAHAHA";
+	}
 	
 	void run() {
 		for(int i=10; i<=50; i+=100) {
