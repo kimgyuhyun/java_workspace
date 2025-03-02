@@ -1,7 +1,0 @@
-package sec04.exam03;
-// retunr문
-public class TestCarExample {
-	public static void main(String[] args) {
-
-	}
-}

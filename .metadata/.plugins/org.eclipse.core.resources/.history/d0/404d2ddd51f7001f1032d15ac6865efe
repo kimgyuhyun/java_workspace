@@ -1,7 +1,0 @@
-package sec04.verify.exam03;
-
-public class TestMemberService {
-	boolean login(String id, String password) {
-		if(id.equals("홍"), password.equals("12345"));
-	}
-}

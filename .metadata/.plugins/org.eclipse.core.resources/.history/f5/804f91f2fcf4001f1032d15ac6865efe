@@ -1,7 +1,0 @@
-package sec03.exam03;
-
-public class TestCarExample {
-	public static void main(String[] args) {
-		TestCar car1 = new TestCar();
-	}
-}

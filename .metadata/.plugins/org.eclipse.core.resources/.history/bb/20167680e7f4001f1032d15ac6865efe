@@ -1,7 +1,0 @@
-package sec03.exam04;
-//생성자 선언
-public class TestCar {
-	//생성자
-	TestCar(String color, int cc) {		
-	}
-}

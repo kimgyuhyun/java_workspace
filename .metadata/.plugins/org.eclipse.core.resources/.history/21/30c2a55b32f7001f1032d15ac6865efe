@@ -1,9 +1,0 @@
-package sec04.exam03;
-// retunr 문
-public class TestCarExample {
-	public static void main(String[] args) {
-		TestCar myCar = new TestCar();
-		
-		myCar.setGas(5);
-	}
-}
