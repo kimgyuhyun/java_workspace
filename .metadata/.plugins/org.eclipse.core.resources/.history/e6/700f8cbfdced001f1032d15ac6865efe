@@ -1,8 +1,0 @@
-package sec01.exam01;
-
-public class practice {
-	public static void main(String[] args) {
-		String strvar1 = "신민철";
-		String strvar2 = "신민철";
-	}
-}

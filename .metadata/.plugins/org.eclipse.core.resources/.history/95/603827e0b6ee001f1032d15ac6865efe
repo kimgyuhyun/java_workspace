@@ -1,8 +1,0 @@
-package sec02.exam03;
-//new 연산자로 배열 생성
-public class practice {
-	public static void main(String[] args) {
-		
-	}
-}
-206p

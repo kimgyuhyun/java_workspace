@@ -1,7 +1,0 @@
-package sec02.exam04;
-
-public class starpractice {
-	public static void main(String[] args) {
-		System.out.print("*");
-	}
-}

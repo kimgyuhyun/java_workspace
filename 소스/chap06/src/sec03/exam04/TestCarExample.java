@@ -23,4 +23,4 @@ public class TestCarExample {
 		System.out.println("car4.color : " + car4.color);
 		System.out.println("car4.maxSpeed : " + car4.maxSpeed);
 	}
-}ㅓㅡ
+}

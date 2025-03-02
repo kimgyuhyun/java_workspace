@@ -1,7 +1,0 @@
-package sec02.exam05;
-//main() 메소드의 매개 변수
-public class practice {
-	public static void main(String[] args) {
-		
-	}
-}
