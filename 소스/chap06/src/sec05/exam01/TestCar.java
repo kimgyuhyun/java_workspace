@@ -11,18 +11,14 @@ public class TestCar {
 	}
 	
 	//메소드
-	void setSpeed(int speed) {
-		this.speed = speed;
+	void setSpeed(int speed) { //매개변수 int speed 를 메소드 setSpeed에 할당
+		this.speed = speed; // 매개변수 speed 를 필드 speed 에 저장
 	}
-	void sumMethod(int something) {
-		this.model = "GHAHAHA";
-	}
-	
+
 	void run() {
-		for(int i=10; i<=50; i+=100) {
-			this.setSpeed(i);
+		for(int i=10; i<=50; i+=10) {
+			this.setSpeed(i); //setSpeed 메소드를 호출해서 i 값으로 속도를 설정
 			System.out.println(this.model + "가 달립니다.(시속:" + this.speed + "km/h)");
 		}
 	}
 }
-//298p
