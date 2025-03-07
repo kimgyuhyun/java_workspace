@@ -15,8 +15,7 @@ public class PromotionExample {
 		B b1 = d;
 		C c1 = e;
 
-		//B b3 = e;
+		//B b3 = e; //상속 관계에 있지 않기 대문에 컴파일 에러 발생
 		//C c2 = d;
 	}
 }
-
