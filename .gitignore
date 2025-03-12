@@ -25,3 +25,7 @@ replay_pid*
 
 # Ignore Eclipse .metadata folder
 .metadata/
+
+# Intellij IDEA
+.idea/
+*.iml
