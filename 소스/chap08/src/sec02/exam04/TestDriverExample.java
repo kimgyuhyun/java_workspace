@@ -1,4 +1,4 @@
-package sec02.exam04;
+package chap08.src.sec02.exam04;
 //객체 타입 확인
 public class TestDriverExample {
 	public static void main(String[] args) {

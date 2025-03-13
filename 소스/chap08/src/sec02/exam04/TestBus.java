@@ -1,4 +1,4 @@
-package sec02.exam04;
+package chap08.src.sec02.exam04;
 //구현 클래스
 public class TestBus implements TestVehicle {
 	@Override

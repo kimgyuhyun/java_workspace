@@ -1,6 +1,6 @@
-package sec02.verify.exam03;
+package chap08.src.sec02.verify.exam03;
 
-public class MySqlDao implements DataAccessObject  {
+public class MySqlDao implements chap08.src.sec02.verify.exam03.DataAccessObject {
 	@Override
 	public void select() {
 		System.out.println("MySql DB에서 검색");

@@ -1,4 +1,4 @@
-package sec02.verify.exam03;
+package chap08.src.sec02.verify.exam03;
 
 public interface DataAccessObject {
 	public void select();

@@ -1,6 +1,6 @@
-package sec02.verify.exam03;
+package chap08.src.sec02.verify.exam03;
 
-public class OracleDao implements DataAccessObject  {
+public class OracleDao implements chap08.src.sec02.verify.exam03.DataAccessObject {
 	@Override
 	public void select() {
 		System.out.println("Oracle DB에서 검색");
