@@ -29,3 +29,5 @@ replay_pid*
 # Intellij IDEA
 .idea/
 *.iml
+
+out/
