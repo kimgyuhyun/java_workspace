@@ -1,4 +1,4 @@
-package sec01.exam01;
+package chap09.src.sec01.exam01;
 
 /**바깥 클래스**/
 class A {

@@ -1,4 +1,4 @@
-package sec01.exam03;
+package chap09.src.sec01.exam03;
 
 public class A {
 	int field1;

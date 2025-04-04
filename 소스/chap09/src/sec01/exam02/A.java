@@ -1,4 +1,4 @@
-package sec01.exam02;
+package chap09.src.sec01.exam02;
 
 public class A {
 	//인스턴스 필드
