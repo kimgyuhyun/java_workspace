@@ -1,8 +1,7 @@
-package sec02.exam01;
+package chap09.src.sec02.exam01;
 
 public class Anonymous {
-	//필드 초기값으로 대입
-	Person field = new Person() {
+	TestPerson field = new TestPerson() {
 		void work() {
 			System.out.println("출근합니다.");
 		}
@@ -12,10 +11,9 @@ public class Anonymous {
 			work();
 		}
 	};
-	
+
 	void method1() {
-		//로컬변수값으로 대입
-		Person localVar = new Person() {
+		TestPerson localVar = new TestPerson() {
 			void walk() {
 				System.out.println("산책합니다.");
 			}
@@ -25,22 +23,10 @@ public class Anonymous {
 				walk();
 			}
 		};
-		//로컬변수 사용
 		localVar.wake();
 	}
-	
-	void method2(Person person) {
+
+	void method2(TestPerson person) {
 		person.wake();
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
